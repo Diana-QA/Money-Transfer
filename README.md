@@ -11,7 +11,7 @@
 
 ## Результаты
 
-#### [Оператор int totalSum в приложении Money Transfer не подходит #1](https://github.com/Diana-QA/Money-Transfer/issues/1)
+#### [При пополнении счета VIP-клиента возникает ошибка #1](https://github.com/Diana-QA/Money-Transfer/issues/1)
 
 ## Общие рекомендации
 
