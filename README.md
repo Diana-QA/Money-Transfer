@@ -11,7 +11,7 @@
 
 ## Результаты
 
-#### [При пополнении счета VIP-клиента возникает ошибка #1](https://github.com/Diana-QA/Money-Transfer/issues/1)
+#### [Неверный расчёт баланса счета при переводе #1](https://github.com/Diana-QA/Money-Transfer/issues/1)
 
 ## Общие рекомендации
 
